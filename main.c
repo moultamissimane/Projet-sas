@@ -19,7 +19,7 @@ void neew(char *menu);
 int main()
 {
 
-    int i = 0, j = 0, tailleCB = 0;
+    int i = 0, j = 0, tailleCB = 0;sss
     int choix = 0;
     int anyKey;//just to stop the process and press any key to complete
     int addFidelisation = 0;//check if i added fidelisation 0 means not yet
